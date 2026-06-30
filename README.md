@@ -1,9 +1,12 @@
-#  About Me:                                                  Aryan Chothe
-                                                              
+# About Me
 
-I am ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Java+Developer;AI%2FML+Enthusiast)
+### Aryan Chothe
 
- passionate about building robust backend <br>systems and exploring how AI/ML can solve real-world problems. I enjoy <br>breaking down complex problems and constantly look for ways to sharpen <br>my skills. My interests include:<br><br>Java Backend Development | Machine Learning | Data Structures & Algorithms
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Java+Developer;AI%2FML+Enthusiast)
+
+I'm passionate about building robust backend systems and exploring how AI/ML can solve real-world problems. I enjoy breaking down complex problems and constantly look for ways to sharpen my skills.
+
+**My interests include:** Java Backend Development | Machine Learning | Data Structures & Algorithms
 
 
 ## 🌐 Socials:
